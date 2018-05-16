@@ -1,4 +1,4 @@
-//Bairagi 106117106
+//Vaibhav Bairagi 106117106
 #include<stdio.h>
 void quicksort(int[],int,int);
 int prttn(int[],int,int);
